@@ -1,0 +1,26 @@
+target/
+*.log
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Temp
+*.tmp
+*.cache
+
+# Node (if any)
+node_modules/
+
+# Build
+dist/
+build/
