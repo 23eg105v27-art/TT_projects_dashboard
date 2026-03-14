@@ -1,0 +1,11 @@
+target/
+.git/
+.github/
+.vscode/
+*.log
+*.tmp
+*.swp
+.DS_Store
+.env
+.env.*
+README*
